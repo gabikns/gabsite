@@ -21,3 +21,15 @@
     margin: 0 15px;
     font-size: 15px;
 }
+
+.siteimg-imagem1{
+    width: 10%;
+    font-size: 0px;
+    text-align: center;
+}
+
+.tubarão-descricao-item{
+    display: inline-block;
+    margin-left: 50px;
+    font-size: 15px; 
+}
