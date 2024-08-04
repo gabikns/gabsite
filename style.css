@@ -33,3 +33,45 @@
     margin-left: 50px;
     font-size: 15px; 
 }
+
+.siteimg-imagem2{
+    width: 10%;
+    font-size: 0px;
+    text-align: end;
+}
+
+.tubarãomartelo-descricao-item{
+    display: inline-block;
+    margin-left: 25px;
+    font-size: 15px; 
+}
+
+.siteimg-imagem3{
+    width: 10%;
+}
+
+.tubarãobaleia-descricao-item{
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 15px; 
+}
+
+.siteimg-imagem4{
+    width: 10%;
+}
+
+.orca-descricao-item{
+    display: inline-block;
+    margin-left: 60px;
+    font-size: 15px;   
+}
+
+.siteimg-imagem5{
+    width: 10%;
+}
+
+.águaviva-descricao-item{
+    display: inline-block;
+    margin-left: 45px;
+    font-size: 15px;
+}
